@@ -3,7 +3,7 @@
     "description": "A simple package to determine the working root directory for a composer dependency",
     "require": {
         "php": ">=5.6",
-        "phpunit/phpunit": "^5.0"
+        "phpunit/phpunit": "^5.0 | ^6.0 | ^7.0"
     },
     "license": "MIT",
     "authors": [
