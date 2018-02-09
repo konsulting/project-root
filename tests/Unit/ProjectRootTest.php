@@ -5,7 +5,7 @@ namespace Konsulting\Tests\Unit;
 use Konsulting\ProjectRoot;
 use PHPUnit\Framework\TestCase;
 
-class PackageRootTest extends TestCase
+class ProjectRootTest extends TestCase
 {
     /** @test * */
     public function it_returns_the_right_path_when_developing_the_package()
