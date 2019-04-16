@@ -2,7 +2,9 @@
     "name": "konsulting/project-root",
     "description": "A simple package to determine the working root directory for a composer dependency",
     "require": {
-        "php": ">=5.6",
+        "php": ">=5.6"
+    },
+    "require-dev": {
         "phpunit/phpunit": "^5.0 | ^6.0 | ^7.0"
     },
     "license": "MIT",
